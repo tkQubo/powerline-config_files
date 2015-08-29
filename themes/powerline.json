@@ -38,6 +38,13 @@
 			"before": "⌚ "
 		},
 
+		"powerline.segments.shell.cwd": {
+			"args": {
+				"dir_shorten_len": 3,
+				"dir_limit_depth": 3,
+				"ellipsis": null
+			}
+		},
 		"powerline.segments.common.net.network_load": {
 			"args": {
 				"recv_format": "⬇ {value:>8}",
